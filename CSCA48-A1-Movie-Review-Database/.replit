@@ -1,0 +1,3 @@
+onBoot = "gcc A1_interactive.c -o file -Wall"
+run = "./file"
+language = "C"

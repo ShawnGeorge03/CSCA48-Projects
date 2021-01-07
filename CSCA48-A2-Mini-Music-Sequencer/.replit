@@ -1,0 +1,3 @@
+language = "C"
+onBoot = "gcc -Wall -Werror A2_interactive_driver.c -o file -lm"
+run = "./file"
